@@ -7,7 +7,7 @@ Optimized K?means (OKM) algorithm that can homogenously segment an image into re
 
 
 
-Interested readers can go through the published paper on it [1][2], where it was tested for grey outdoor images.
+Interested readers can go through the published paper on it [1][2], where these were tested for grey outdoor images.
 
 
 
