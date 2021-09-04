@@ -11,6 +11,6 @@ Interested readers can go through the published paper on it [1][2], where it was
 
 
 
-References:
+# References:
 [1] Fasahat U. Siddiqui, and Nor A.M. Isa, “Optimized K-means (OKM) clustering algorithm for image segmentation”, Opto-Electronics Review, 20(3), pp.216-225, 2012.
 [2] Fasahat U. Siddiqui, and Nor A.M. Isa, ”Enhanced moving K-means (EMKM) algorithm for image segmentation”, IEEE Transactions on Consumer Electronics 57(2), pp. 833-841, 2011.2012.
